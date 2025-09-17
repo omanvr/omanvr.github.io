@@ -1,0 +1,101 @@
+3M Littmann Introduction to Heart Sounds version 2.0.1
+
+Operating System: Windows 98/Me/2000/XP or Macintosh OS X 10.1.
+Internet Browser: Internet Explorer 5.0 or higher.
+Screen resolution: 800 x 600 minimum.
+Macromedia Flash player: Free download from Macromedia website (http://www.macromedia.com/downloads)
+
+How to start:
+Insert CD into CD-ROM drive of your computer, and the program will start automatically. 
+
+Important: 
+If Flash Player is not already installed, follow these directions in order to use the software:
+
+Windows XP 
+
+IF INTERNET CONNECTION IS AVAILABLE:
+
+1. Connect to the internet.
+2. Restart the 3M™ Littmann® Introduction to Heart Sounds program.
+3. You will be automatically promted to download and install the Flash Player. Installation of Macromedia Flash Player may require administrative access to your PC, which is normally provided by your IT department.
+4. Click Yes on the pop-up window and follow the instructions. 
+
+IF INTERNET CONNECTION IS NOT AVAILABLE: 
+
+1. For the Macromedia Flash Player installation to succeed, please close all other browser windows. Installation of Macromedia Flash Player may require administrative access to your PC, which is normally provided by your IT department.
+2. Click the Install Flash Player 7 (or open file "Install Flash Player 7.msi" in the CD folder) link to automatically install Macromedia Flash Player 7 into Microsoft Internet Explorer. 
+3. Depending on your security settings, you may see a Security Warning dialog box. Click Open to install the Flash Player.
+4. Depending on your setting you might be promted to restart your computer.
+
+If you have installation questions or need help troubleshooting Macromedia Flash Player 7, go to Macromedia Support Center(http://www.macromedia.com/support/flashplayer).
+
+ 
+
+Windows NT 4.0/2000
+
+IF INTERNET CONNECTION IS AVAILABLE:
+
+1. Connect to the internet.
+2. Restart the 3M™ Littmann® Introduction to Heart Sounds program.
+3. You will be automatically promted to download and install the Flash Player. Installation of Macromedia Flash Player may require administrative access to your PC, which is normally provided by your IT department.
+4. Click Yes on the pop-up window and follow the instructions. 
+
+IF INTERNET CONNECTION IS NOT AVAILABLE: 
+
+1. For the Macromedia Flash Player installation to succeed, please close all other browser windows. Installation of Macromedia Flash Player may require administrative access to your PC, which is normally provided by your IT department.
+2. If not already installed, you need to install Windows Installer 2.0 (or open file "InstMsiW.exe" in the CD folder) on your computer. 
+3. After Windows Installer 2.0 has been installed, click the Install Flash Player 7 (or open file "Install Flash Player 7.msi" in the CD folder) link to automatically install Macromedia Flash Player 7 into Microsoft Internet Explorer. 
+3. Depending on your security settings, you may see a Security Warning dialog box. Click Open to install the Flash Player.
+4. Depending on your setting you might be promted to restart your computer.
+
+If you have installation questions or need help troubleshooting Macromedia Flash Player 7, go to Macromedia Support Center(http://www.macromedia.com/support/flashplayer).
+
+ 
+
+Windows 98/ME
+
+IF INTERNET CONNECTION IS AVAILABLE:
+
+1. Connect to the internet.
+2. Restart the 3M™ Littmann® Introduction to Heart Sounds program.
+3. You will be automatically promted to download and install the Flash Player. Installation of Macromedia Flash Player may require administrative access to your PC, which is normally provided by your IT department.
+4. Click Yes on the pop-up window and follow the instructions. 
+
+IF INTERNET CONNECTION IS NOT AVAILABLE: 
+
+1. For the Macromedia Flash Player installation to succeed, please close all other browser windows. Installation of Macromedia Flash Player may require administrative access to your PC, which is normally provided by your IT department.
+2. If not already installed, you need to install Windows Installer 2.0 (or open file "InstMsiA.exe" in the CD folder) on your computer. 
+3. After Windows Installer 2.0 has been installed, click the Install Flash Player 7 (or open file "Install Flash Player 7.msi" in the CD folder) link to automatically install Macromedia Flash Player 7 into Microsoft Internet Explorer. 
+3. Depending on your security settings, you may see a Security Warning dialog box. Click Open to install the Flash Player.
+4. Depending on your setting you might be promted to restart your computer.
+
+If you have installation questions or need help troubleshooting Macromedia Flash Player 7, go to Macromedia Support Center(http://www.macromedia.com/support/flashplayer).
+
+ 
+
+Mac OS X
+
+IF INTERNET CONNECTION IS AVAILABLE:
+
+1. Connect to the internet.
+2. Restart the 3M™ Littmann® Introduction to Heart Sounds program.
+3. You will be automatically promted to download and install the Flash Player. Installation of Macromedia Flash Player may require administrative access to your PC, which is normally provided by your IT department.
+4. Click Yes on the pop-up window and follow the instructions. 
+
+IF INTERNET CONNECTION IS NOT AVAILABLE:
+
+Note:
+Macromedia Flash Player 7 for Mac OS X requires the Mac OS X 10.1 or later operating system from Apple, and Microsoft Internet Explorer 5.1 (version 3408) or later, or Netscape 6.2 or later browser versions. If you do not have either version of the browser or operating system, use the Apple Software Update application within OS X. You can also go to the respective companies' websites to update your software.
+
+Installation Instructions 
+
+1. Copy the file "macosx.bin" or "macosx.hqx" to your desktop. Both files are located inside the CD folder in the directory "Install".
+2. Double-click one of the files to begin installation. A dialog box will appear asking you where to save the Installer.
+2. Save the Installer to your desktop.
+3. An Installer icon will appear on your desktop. Double-click on it.
+
+4. Read and click through the dialog boxes.
+5. When the Install button appears, click it to install Macromedia Flash Player 7 into your browser's plug-ins folder.
+6.Your web browser will launch a new window. When you see the Flash file at the top of this page, the installation was successful.
+
+If you have installation questions or need help troubleshooting Macromedia Flash Player 7, go to Macromedia Support Center(http://www.macromedia.com/support/flashplayer).
